@@ -1,0 +1,161 @@
+/*--------------------------------------------------separando por sections*/
+
+.margem {
+    /* defina a margem da página*/
+}
+
+.topheader {
+    /*definir o topo do header*/
+    background: #116611;
+  
+
+}
+
+.titulopag {
+    /*colocar style do titulo da página*/
+
+}
+
+
+/*--------------------------------------------------separando por div*/
+.botoes {
+    /*colocar alinhamento dos botões*/
+    
+
+}
+
+.bnt-1 {
+    /*colocar como botao inicio*/
+    
+}
+
+.bnt-2 {
+    /*colocar como botao sobre*/
+    
+}
+
+.bnt-3 {
+    /*colocar como botao projetos*/
+    
+}
+
+.bnt-4 {
+    /*colocar como botao onde estamos*/
+    
+}
+
+
+
+/*--------------------------------------------------separando por sections*/
+.imagens {
+    /*definir fundo e a magem*/
+    background: #ffffff;
+    
+
+}
+
+
+/*--------------------------------------------------separando por div*/
+.imgprojetos {
+    /*alinha a imagem com a tela*/
+    
+    
+
+}
+
+.stl-img {
+    /*estilizar a imagem*/
+    opacity: 0.3;
+   
+
+}
+
+
+
+/*--------------------------------------------------separando por sections*/
+
+.perfis {
+    /*definir o fundo para fundo de perfis*/
+    background: #76AA76;
+
+}
+
+.tituloperfil{
+    color: white;
+    text-align: center;  
+
+}
+
+/*--------------------------------------------------separando por seus perfis*/
+/*
+pegar imagem própria para as repectivas fomas de entrada
+ajustar o botão de cadastrar-se 
+ajustar o botão de logar
+
+se quiser para melhorar coloque uma div para mover toda a class diretamente
+colocar o estilo que esta na apresentação do 
+*/
+.perfil-1 {
+    /*definir o perfil 1*/
+}
+.nomeENTRADA1{}
+
+.imgperfil1 {}
+
+.bntcadastro1 {}
+
+.bntlogar1 {}
+
+
+
+
+
+.perfil-2 {
+    /*definir o perfil 2*/
+
+}
+.nomeENTRADA2{}
+
+.imgperfil2 {}
+
+.bntcadastro2 {}
+
+.bntlogar2 {}
+
+
+
+.perfil-3 {
+    /*definir o perfil 3*/
+
+}
+.nomeENTRADA3{}
+
+.imgperfil3 {}
+
+.bntcadastro3 {}
+
+.bntlogar3 {}
+
+
+
+
+.perfil-4 {
+    /*definir o perfil 4*/
+
+}
+.nomeENTRADA4{}
+
+.imgperfil4 {}
+
+.bntcadastro4 {}
+
+.bntlogar4 {}
+
+/*--------------------------------------------------separando por sections*/
+
+.rodapesite {
+    background: #000000; 
+    padding: 20px 50px; 
+    
+}
+
